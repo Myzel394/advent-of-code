@@ -1,4 +1,4 @@
-add# [Link](https://adventofcode.com/2020/day/1)
+# [Link](https://adventofcode.com/2020/day/1)
 
 ## Task (part 1)
 
